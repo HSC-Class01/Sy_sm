@@ -68,9 +68,18 @@ def main():
     for year in range(cfg['start_year'],end+1):
         reports.extend(x for d in client.disclosures(corp['corp_code'],year) if (x:=parse_report(d)) and x['year']>=cfg['start_year'])
     write_json(raw/'disclosure_index.json',reports)
-    for d in reports:
-        file=raw/'documents'/(d['rcept_no']+'.zip'); file.parent.mkdir(parents=True,exist_ok=True)
-        if not file.exists(): file.write_bytes(client.document(d['rcept_no']))
+    # ZIP downloads are optional: a slow document endpoint must not block dashboard generation.
+    # Filing metadata and direct DART links are always saved; enable full ZIP archiving explicitly.
+    if os.environ.get('DART_ARCHIVE_DOCUMENTS', '').strip() == '1':
+        for d in reports:
+            file=raw/'documents'/(d['rcept_no']+'.zip')
+            if file.exists(): continue
+            file.parent.mkdir(parents=True,exist_ok=True)
+            try:
+                file.write_bytes(client.document(d['rcept_no']))
+                print(f"Archived filing {d['rcept_no']}", flush=True)
+            except Exception as exc:
+                print(f"Archive skipped for {d['rcept_no']}: {type(exc).__name__}", flush=True)
     latest={}
     for d in reports:
         k=(d['year'],d['category'])
