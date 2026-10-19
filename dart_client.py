@@ -10,11 +10,11 @@ class DartClient:
         self.key=os.environ.get('DART_API_KEY','').strip()
         if not self.key: raise RuntimeError('DART_API_KEY secret is required')
         self.session=requests.Session()
-        self.session.mount('https://',HTTPAdapter(max_retries=Retry(total=3,backoff_factor=2,status_forcelist=[429,500,502,503,504])))
+        self.session.mount('https://',HTTPAdapter(max_retries=Retry(total=1,backoff_factor=0.5,status_forcelist=[429,500,502,503,504])))
     def request(self,endpoint,**params):
-        time.sleep(.25)
+        time.sleep(.1)
         try:
-            r=self.session.get(BASE+endpoint,params={'crtfc_key':self.key,**params},timeout=90)
+            r=self.session.get(BASE+endpoint,params={'crtfc_key':self.key,**params},timeout=30)
             r.raise_for_status()
         except requests.RequestException:
             # Never print request URL (contains API key).
