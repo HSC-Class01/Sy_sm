@@ -2,7 +2,7 @@ import csv, io, json, re, os, zipfile
 from pathlib import Path
 from datetime import datetime, timezone
 from dart_client import DartClient
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parent
 PERIODS={'annual':('11011','Annual',12),'half_year':('11012','Half-year',6),'quarterly_q1':('11013','Quarterly Q1',3),'quarterly_q3':('11014','Quarterly Q3',9)}
 # Only exact IDs / normalized names within the appropriate statement; ambiguous names stay null.
 SPECS={
@@ -86,8 +86,8 @@ def main():
         records.append({'year':year,'category':cat,'report_label':label,'fs_div':fs if year>=2015 else None,'rcept_no':d['rcept_no'],'source_url':d['url'],'status':status,'basis':'YTD; BS period-end','provenance':source,**m,**ratios(m)})
     if not reports: raise RuntimeError('No filings found; refusing to replace existing data')
     payload={'company':corp,'updated_at_utc':now.isoformat(),'records':records,'reports':reports,'peers':cfg['peer_firms'],'notes':['2010–2014: 원문 ZIP 보관; 구조화 재무 API 미제공으로 수치는 미추출.','손익·현금흐름은 누적(YTD), 재무상태표는 기말. 연결 우선·미제공 시 별도.','분모가 0 이하인 비율 및 계정이 모호한 수치는 표시하지 않음.']}
-    write_json(ROOT/'site/data/dashboard_data.json',payload)
-    csvpath=ROOT/'site/data/financials.csv'
+    write_json(ROOT/'data/dashboard_data.json',payload)
+    csvpath=ROOT/'data/financials.csv'
     with csvpath.open('w',newline='',encoding='utf-8-sig') as f:
         keys=['year','category','fs_div','status',*SPECS,*ratios({}), 'source_url']; writer=csv.DictWriter(f,fieldnames=keys,extrasaction='ignore'); writer.writeheader(); writer.writerows(records)
     print(f'{corp["corp_name"]}: {len(reports)} filings, {len(records)} periods')
