@@ -1,0 +1,81 @@
+name: SM DART update and Pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'main.py'
+      - 'dart_client.py'
+      - 'index.html'
+      - 'config.json'
+      - 'requirements.txt'
+      - '.github/workflows/sm-dart-pages.yml'
+  schedule:
+    - cron: '17 0 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: sm-dart-pages
+  cancel-in-progress: false
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Validate configuration and run offline tests
+        run: |
+          python -m json.tool config.json >/dev/null
+          python -m unittest discover -s . -p 'test_financials.py' -v
+      - name: Collect DART filings and financials
+        env:
+          DART_API_KEY: ${{ secrets.DART_API_KEY }}
+        run: python main.py
+      - name: Verify generated dashboard data
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path('data/dashboard_data.json')
+          d = json.loads(p.read_text(encoding='utf-8'))
+          if not d.get('records'):
+              raise SystemExit('No financial records generated; refusing to deploy')
+          if not d.get('company', {}).get('corp_code'):
+              raise SystemExit('Company identity is missing; refusing to deploy')
+          print(f"Validated {len(d['records'])} periods and {len(d.get('reports', []))} filings")
+          PY
+      - name: Prepare static Pages site
+        run: |
+          mkdir -p site/data site/assets
+          cp index.html site/index.html
+          cp data/dashboard_data.json data/financials.csv site/data/
+          if [ -f dashboard-badge.svg ]; then cp dashboard-badge.svg site/assets/dashboard-badge.svg; fi
+      - name: Commit collected data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/dashboard_data.json data/financials.csv data/raw
+          git diff --cached --quiet || git commit -m 'chore(data): refresh SM DART financials'
+          git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
