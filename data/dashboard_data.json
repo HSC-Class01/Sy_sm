@@ -1,0 +1,5458 @@
+{
+  "company": {
+    "corp_code": "00260930",
+    "corp_name": "에스엠",
+    "stock_code": "041510"
+  },
+  "updated_at_utc": "2026-10-19T00:58:37.720120+00:00",
+  "records": [
+    {
+      "year": 2010,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": null,
+      "rcept_no": "20110330000387",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110330000387",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2010,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": null,
+      "rcept_no": "20100816000118",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20100816000118",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2010,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": null,
+      "rcept_no": "20100513000120",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20100513000120",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2010,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": null,
+      "rcept_no": "20101115000645",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20101115000645",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2011,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": null,
+      "rcept_no": "20160422000639",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000639",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2011,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": null,
+      "rcept_no": "20110816000306",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110816000306",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2011,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": null,
+      "rcept_no": "20110516000826",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110516000826",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2011,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": null,
+      "rcept_no": "20111111000158",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20111111000158",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2012,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": null,
+      "rcept_no": "20160422000651",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000651",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2012,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": null,
+      "rcept_no": "20120814000670",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20120814000670",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2012,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": null,
+      "rcept_no": "20120515000269",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20120515000269",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2012,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": null,
+      "rcept_no": "20121114000586",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20121114000586",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2013,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": null,
+      "rcept_no": "20160422000669",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000669",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2013,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": null,
+      "rcept_no": "20130829001174",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130829001174",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2013,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": null,
+      "rcept_no": "20130530000373",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130530000373",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2013,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": null,
+      "rcept_no": "20131129000244",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20131129000244",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2014,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": null,
+      "rcept_no": "20150331004087",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150331004087",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2014,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": null,
+      "rcept_no": "20140829000200",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140829000200",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2014,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": null,
+      "rcept_no": "20140530001165",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140530001165",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2014,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": null,
+      "rcept_no": "20141121000030",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20141121000030",
+      "status": "API_NOT_AVAILABLE_BEFORE_2015",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2015,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20160330003362",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160330003362",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20160330003362"
+        }
+      },
+      "assets": 459709219858,
+      "liabilities": 136211256332,
+      "equity": 323497963526,
+      "current_assets": 226595498382,
+      "current_liabilities": 98098672026,
+      "cash": 133470436606,
+      "revenue": 325439247011,
+      "operating_income": 36422839744,
+      "net_income": 18387798275,
+      "operating_cash_flow": null,
+      "debt_ratio": 42.11,
+      "equity_ratio": 70.37,
+      "current_ratio": 230.99,
+      "operating_margin": 11.19,
+      "net_margin": 5.65
+    },
+    {
+      "year": 2015,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "OFS",
+      "rcept_no": "20150817001446",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150817001446",
+      "status": "NO_FINANCIAL_DATA",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2015,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "OFS",
+      "rcept_no": "20150515001313",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150515001313",
+      "status": "NO_FINANCIAL_DATA",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2015,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "OFS",
+      "rcept_no": "20151116001109",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20151116001109",
+      "status": "NO_FINANCIAL_DATA",
+      "basis": "YTD; BS period-end",
+      "provenance": {},
+      "assets": null,
+      "liabilities": null,
+      "equity": null,
+      "current_assets": null,
+      "current_liabilities": null,
+      "cash": null,
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": null,
+      "equity_ratio": null,
+      "current_ratio": null,
+      "operating_margin": null,
+      "net_margin": null
+    },
+    {
+      "year": 2016,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20170331004676",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170331004676",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "수익(매출액)",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20170331004676"
+        }
+      },
+      "assets": 525082697414,
+      "liabilities": 149536301555,
+      "equity": 375546395859,
+      "current_assets": 293384837839,
+      "current_liabilities": 134647093512,
+      "cash": 169585801412,
+      "revenue": 349870229327,
+      "operating_income": 20705234399,
+      "net_income": 4225515109,
+      "operating_cash_flow": 21151119745,
+      "debt_ratio": 39.82,
+      "equity_ratio": 71.52,
+      "current_ratio": 217.89,
+      "operating_margin": 5.92,
+      "net_margin": 1.21
+    },
+    {
+      "year": 2016,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20160812000781",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160812000781",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160812000781"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160812000781"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160812000781"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20160812000781"
+        }
+      },
+      "assets": 514751600665,
+      "liabilities": 144044247523,
+      "equity": 370707353142,
+      "current_assets": 292852224270,
+      "current_liabilities": 131891687576,
+      "cash": 154846007592,
+      "revenue": 167347630544,
+      "operating_income": 6597586184,
+      "net_income": -340126969,
+      "operating_cash_flow": -10447311096,
+      "debt_ratio": 38.86,
+      "equity_ratio": 72.02,
+      "current_ratio": 222.04,
+      "operating_margin": 3.94,
+      "net_margin": -0.2
+    },
+    {
+      "year": 2016,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20160516002247",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160516002247",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20160516002247"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160516002247"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160516002247"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20160516002247"
+        }
+      },
+      "assets": 514231765347,
+      "liabilities": 144139228599,
+      "equity": 370092536748,
+      "current_assets": 286550338473,
+      "current_liabilities": 104206921703,
+      "cash": 179430755867,
+      "revenue": 90451372439,
+      "operating_income": 9029774793,
+      "net_income": 6121585528,
+      "operating_cash_flow": null,
+      "debt_ratio": 38.95,
+      "equity_ratio": 71.97,
+      "current_ratio": 274.98,
+      "operating_margin": 9.98,
+      "net_margin": 6.77
+    },
+    {
+      "year": 2016,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20161114002026",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20161114002026",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "수익(매출액)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20161114002026"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20161114002026"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20161114002026"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20161114002026"
+        }
+      },
+      "assets": 519018761470,
+      "liabilities": 145386339158,
+      "equity": 373632422312,
+      "current_assets": 287498481250,
+      "current_liabilities": 127011246661,
+      "cash": 168529644882,
+      "revenue": 271464529055,
+      "operating_income": 20084151682,
+      "net_income": 8248164419,
+      "operating_cash_flow": 8444040791,
+      "debt_ratio": 38.91,
+      "equity_ratio": 71.99,
+      "current_ratio": 226.36,
+      "operating_margin": 7.4,
+      "net_margin": 3.04
+    },
+    {
+      "year": 2017,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20180402002889",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180402002889",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20180402002889"
+        }
+      },
+      "assets": 797509023895,
+      "liabilities": 361878090412,
+      "equity": 435630933483,
+      "current_assets": 440834562636,
+      "current_liabilities": 330417379959,
+      "cash": 195462237474,
+      "revenue": 365386504380,
+      "operating_income": 10941300582,
+      "net_income": null,
+      "operating_cash_flow": null,
+      "debt_ratio": 83.07,
+      "equity_ratio": 54.62,
+      "current_ratio": 133.42,
+      "operating_margin": 2.99,
+      "net_margin": null
+    },
+    {
+      "year": 2017,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20170814001030",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170814001030",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170814001030"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170814001030"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170814001030"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20170814001030"
+        }
+      },
+      "assets": 499464647061,
+      "liabilities": 130874512280,
+      "equity": 368590134781,
+      "current_assets": 263962711404,
+      "current_liabilities": 117422951525,
+      "cash": 160069320574,
+      "revenue": 135786537848,
+      "operating_income": 2578233398,
+      "net_income": -4202069448,
+      "operating_cash_flow": 7803706552,
+      "debt_ratio": 35.51,
+      "equity_ratio": 73.8,
+      "current_ratio": 224.8,
+      "operating_margin": 1.9,
+      "net_margin": -3.09
+    },
+    {
+      "year": 2017,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20170515003095",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170515003095",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "수익(매출액)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170515003095"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170515003095"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20170515003095"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20170515003095"
+        }
+      },
+      "assets": 507576656539,
+      "liabilities": 142699311783,
+      "equity": 364877344756,
+      "current_assets": 282534066173,
+      "current_liabilities": 127618615081,
+      "cash": 166613975254,
+      "revenue": 68079994886,
+      "operating_income": 1199931080,
+      "net_income": -8006905168,
+      "operating_cash_flow": 1459921392,
+      "debt_ratio": 39.11,
+      "equity_ratio": 71.89,
+      "current_ratio": 221.39,
+      "operating_margin": 1.76,
+      "net_margin": -11.76
+    },
+    {
+      "year": 2017,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20171114001051",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20171114001051",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20171114001051"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20171114001051"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20171114001051"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20171114001051"
+        }
+      },
+      "assets": 539725746488,
+      "liabilities": 156190599207,
+      "equity": 383535147281,
+      "current_assets": 247088409933,
+      "current_liabilities": 144611900573,
+      "cash": 128671130833,
+      "revenue": 222459254378,
+      "operating_income": 7199234526,
+      "net_income": 8611344670,
+      "operating_cash_flow": null,
+      "debt_ratio": 40.72,
+      "equity_ratio": 71.06,
+      "current_ratio": 170.86,
+      "operating_margin": 3.24,
+      "net_margin": 3.87
+    },
+    {
+      "year": 2018,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20190329004163",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190329004163",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20190329004163"
+        }
+      },
+      "assets": 1002473549711,
+      "liabilities": 426345966340,
+      "equity": 576127583371,
+      "current_assets": 537351647980,
+      "current_liabilities": 394212845225,
+      "cash": 237328739701,
+      "revenue": 612227478805,
+      "operating_income": 47746036880,
+      "net_income": 23420444781,
+      "operating_cash_flow": 120003666943,
+      "debt_ratio": 74.0,
+      "equity_ratio": 57.47,
+      "current_ratio": 136.31,
+      "operating_margin": 7.8,
+      "net_margin": 3.83
+    },
+    {
+      "year": 2018,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20180814001175",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180814001175",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180814001175"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180814001175"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180814001175"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20180814001175"
+        }
+      },
+      "assets": 948006578423,
+      "liabilities": 395374253821,
+      "equity": 552632324602,
+      "current_assets": 491349242384,
+      "current_liabilities": 360704029911,
+      "cash": 243606622152,
+      "revenue": 235055339946,
+      "operating_income": 20398084296,
+      "net_income": 15457891692,
+      "operating_cash_flow": 33934608924,
+      "debt_ratio": 71.54,
+      "equity_ratio": 58.29,
+      "current_ratio": 136.22,
+      "operating_margin": 8.68,
+      "net_margin": 6.58
+    },
+    {
+      "year": 2018,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20180514004666",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180514004666",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180514004666"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180514004666"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20180514004666"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20180514004666"
+        }
+      },
+      "assets": 789784631259,
+      "liabilities": 339298706926,
+      "equity": 450485924333,
+      "current_assets": 424488892265,
+      "current_liabilities": 306514296017,
+      "cash": 209803413535,
+      "revenue": 110624137632,
+      "operating_income": 10388704896,
+      "net_income": 11414791391,
+      "operating_cash_flow": 11050005055,
+      "debt_ratio": 75.32,
+      "equity_ratio": 57.04,
+      "current_ratio": 138.49,
+      "operating_margin": 9.39,
+      "net_margin": 10.32
+    },
+    {
+      "year": 2018,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20181114001206",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20181114001206",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20181114001206"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20181114001206"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20181114001206"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20181114001206"
+        }
+      },
+      "assets": 981691712641,
+      "liabilities": 412412031085,
+      "equity": 569279681556,
+      "current_assets": 515011957770,
+      "current_liabilities": 383174917167,
+      "cash": 234203753564,
+      "revenue": 403737314705,
+      "operating_income": 32541243354,
+      "net_income": 22739748723,
+      "operating_cash_flow": 42741411978,
+      "debt_ratio": 72.44,
+      "equity_ratio": 57.99,
+      "current_ratio": 134.41,
+      "operating_margin": 8.06,
+      "net_margin": 5.63
+    },
+    {
+      "year": 2019,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20200330004089",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200330004089",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20200330004089"
+        }
+      },
+      "assets": 1115620586546,
+      "liabilities": 482852438972,
+      "equity": 632768147574,
+      "current_assets": 628691154368,
+      "current_liabilities": 436954867417,
+      "cash": 284977571265,
+      "revenue": 657825612024,
+      "operating_income": 40396706232,
+      "net_income": -16182525437,
+      "operating_cash_flow": 91946538513,
+      "debt_ratio": 76.31,
+      "equity_ratio": 56.72,
+      "current_ratio": 143.88,
+      "operating_margin": 6.14,
+      "net_margin": -2.46
+    },
+    {
+      "year": 2019,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20190814001215",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190814001215",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190814001215"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190814001215"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190814001215"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20190814001215"
+        }
+      },
+      "assets": 1018513480478,
+      "liabilities": 410776287727,
+      "equity": 607737192751,
+      "current_assets": 518634550905,
+      "current_liabilities": 361495571445,
+      "cash": 231735509460,
+      "revenue": 290441611557,
+      "operating_income": 6681564199,
+      "net_income": -3008591810,
+      "operating_cash_flow": 12240667962,
+      "debt_ratio": 67.59,
+      "equity_ratio": 59.67,
+      "current_ratio": 143.47,
+      "operating_margin": 2.3,
+      "net_margin": -1.04
+    },
+    {
+      "year": 2019,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20190515001063",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190515001063",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "liabilities": {
+          "account_id": "ifrs_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "equity": {
+          "account_id": "ifrs_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "current_assets": {
+          "account_id": "ifrs_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "cash": {
+          "account_id": "ifrs_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        },
+        "revenue": {
+          "account_id": "ifrs_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190515001063"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190515001063"
+        },
+        "net_income": {
+          "account_id": "ifrs_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20190515001063"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20190515001063"
+        }
+      },
+      "assets": 992620852180,
+      "liabilities": 398094894770,
+      "equity": 594525957410,
+      "current_assets": 493830613046,
+      "current_liabilities": 347429013631,
+      "cash": 213541686095,
+      "revenue": 130797500168,
+      "operating_income": 2811901893,
+      "net_income": -3702999006,
+      "operating_cash_flow": -8540844582,
+      "debt_ratio": 66.96,
+      "equity_ratio": 59.89,
+      "current_ratio": 142.14,
+      "operating_margin": 2.15,
+      "net_margin": -2.83
+    },
+    {
+      "year": 2019,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20191114001077",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20191114001077",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20191114001077"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20191114001077"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20191114001077"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20191114001077"
+        }
+      },
+      "assets": 1034515716763,
+      "liabilities": 408914851649,
+      "equity": 625600865114,
+      "current_assets": 533631655051,
+      "current_liabilities": 366820590969,
+      "cash": 243115021874,
+      "revenue": 463918131626,
+      "operating_income": 26617690195,
+      "net_income": 6337264385,
+      "operating_cash_flow": 35994866765,
+      "debt_ratio": 65.36,
+      "equity_ratio": 60.47,
+      "current_ratio": 145.47,
+      "operating_margin": 5.74,
+      "net_margin": 1.37
+    },
+    {
+      "year": 2020,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20210322001115",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210322001115",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20210322001115"
+        }
+      },
+      "assets": 1068872535478,
+      "liabilities": 452733816018,
+      "equity": 616138719460,
+      "current_assets": 646498838880,
+      "current_liabilities": 433801643310,
+      "cash": 297514305362,
+      "revenue": 579875790663,
+      "operating_income": 6495064093,
+      "net_income": -80341242406,
+      "operating_cash_flow": 45398545730,
+      "debt_ratio": 73.48,
+      "equity_ratio": 57.64,
+      "current_ratio": 149.03,
+      "operating_margin": 1.12,
+      "net_margin": -13.85
+    },
+    {
+      "year": 2020,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20200814001338",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200814001338",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200814001338"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200814001338"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200814001338"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20200814001338"
+        }
+      },
+      "assets": 1006525709239,
+      "liabilities": 373095801781,
+      "equity": 633429907458,
+      "current_assets": 537391784687,
+      "current_liabilities": 346806133679,
+      "cash": 246488729286,
+      "revenue": 280656363675,
+      "operating_income": 14839524790,
+      "net_income": -2105440246,
+      "operating_cash_flow": -4871371407,
+      "debt_ratio": 58.9,
+      "equity_ratio": 62.93,
+      "current_ratio": 154.95,
+      "operating_margin": 5.29,
+      "net_margin": -0.75
+    },
+    {
+      "year": 2020,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20200515001197",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200515001197",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200515001197"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200515001197"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20200515001197"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20200515001197"
+        }
+      },
+      "assets": 1003557238014,
+      "liabilities": 369383189129,
+      "equity": 634174048885,
+      "current_assets": 520554753702,
+      "current_liabilities": 325606843054,
+      "cash": 233153809295,
+      "revenue": 144748009125,
+      "operating_income": 1679606766,
+      "net_income": -1940551428,
+      "operating_cash_flow": -42975058347,
+      "debt_ratio": 58.25,
+      "equity_ratio": 63.19,
+      "current_ratio": 159.87,
+      "operating_margin": 1.16,
+      "net_margin": -1.34
+    },
+    {
+      "year": 2020,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20201116000981",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20201116000981",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20201116000981"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20201116000981"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20201116000981"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20201116000981"
+        }
+      },
+      "assets": 1007077639398,
+      "liabilities": 388910269606,
+      "equity": 618167369792,
+      "current_assets": 533282436694,
+      "current_liabilities": 365919430734,
+      "cash": 233697183663,
+      "revenue": 395672386241,
+      "operating_income": 5147353553,
+      "net_income": -17760337985,
+      "operating_cash_flow": 21137466881,
+      "debt_ratio": 62.91,
+      "equity_ratio": 61.38,
+      "current_ratio": 145.74,
+      "operating_margin": 1.3,
+      "net_margin": -4.49
+    },
+    {
+      "year": 2021,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20220331003351",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220331003351",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20220331003351"
+        }
+      },
+      "assets": 1314942073873,
+      "liabilities": 526500165835,
+      "equity": 788441908038,
+      "current_assets": 769460806649,
+      "current_liabilities": 400685603408,
+      "cash": 331288517569,
+      "revenue": 701563172148,
+      "operating_income": 67520136401,
+      "net_income": 133225196705,
+      "operating_cash_flow": 122557828394,
+      "debt_ratio": 66.78,
+      "equity_ratio": 59.96,
+      "current_ratio": 192.04,
+      "operating_margin": 9.62,
+      "net_margin": 18.99
+    },
+    {
+      "year": 2021,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20210817001014",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210817001014",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210817001014"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210817001014"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "반기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210817001014"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20210817001014"
+        }
+      },
+      "assets": 1163633017278,
+      "liabilities": 484611474486,
+      "equity": 679021542792,
+      "current_assets": 666684272078,
+      "current_liabilities": 374304316235,
+      "cash": 312208815154,
+      "revenue": 340661023051,
+      "operating_income": 42873599134,
+      "net_income": 25006399555,
+      "operating_cash_flow": 45243587209,
+      "debt_ratio": 71.37,
+      "equity_ratio": 58.35,
+      "current_ratio": 178.11,
+      "operating_margin": 12.59,
+      "net_margin": 7.34
+    },
+    {
+      "year": 2021,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20210517000837",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210517000837",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210517000837"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210517000837"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20210517000837"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20210517000837"
+        }
+      },
+      "assets": 1141056147974,
+      "liabilities": 504980204702,
+      "equity": 636075943272,
+      "current_assets": 610033704434,
+      "current_liabilities": 381859650078,
+      "cash": 288411587757,
+      "revenue": 154244767233,
+      "operating_income": 15378471732,
+      "net_income": 8674488481,
+      "operating_cash_flow": 12349338389,
+      "debt_ratio": 79.39,
+      "equity_ratio": 55.74,
+      "current_ratio": 159.75,
+      "operating_margin": 9.97,
+      "net_margin": 5.62
+    },
+    {
+      "year": 2021,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20211115001026",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20211115001026",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20211115001026"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20211115001026"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20211115001026"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20211115001026"
+        }
+      },
+      "assets": 1179241255887,
+      "liabilities": 466828085277,
+      "equity": 712413170610,
+      "current_assets": 691227997190,
+      "current_liabilities": 358726734947,
+      "cash": 312063715096,
+      "revenue": 495031667571,
+      "operating_income": 56945378994,
+      "net_income": 40094759062,
+      "operating_cash_flow": 66064841585,
+      "debt_ratio": 65.53,
+      "equity_ratio": 60.41,
+      "current_ratio": 192.69,
+      "operating_margin": 11.5,
+      "net_margin": 8.1
+    },
+    {
+      "year": 2022,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20230331004445",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230331004445",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20230331004445"
+        }
+      },
+      "assets": 1463023492474,
+      "liabilities": 576891434654,
+      "equity": 886132057820,
+      "current_assets": 841444752217,
+      "current_liabilities": 467445334456,
+      "cash": 317520426414,
+      "revenue": 850769309133,
+      "operating_income": 91007611263,
+      "net_income": 82028551863,
+      "operating_cash_flow": 114937054179,
+      "debt_ratio": 65.1,
+      "equity_ratio": 60.57,
+      "current_ratio": 180.01,
+      "operating_margin": 10.7,
+      "net_margin": 9.64
+    },
+    {
+      "year": 2022,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20220816001106",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220816001106",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220816001106"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220816001106"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "반기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220816001106"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20220816001106"
+        }
+      },
+      "assets": 1335148910487,
+      "liabilities": 490199748889,
+      "equity": 844949161598,
+      "current_assets": 730277897735,
+      "current_liabilities": 372502191219,
+      "cash": 274367759834,
+      "revenue": 353881507076,
+      "operating_income": 38593904082,
+      "net_income": 50934149691,
+      "operating_cash_flow": 16417810144,
+      "debt_ratio": 58.02,
+      "equity_ratio": 63.29,
+      "current_ratio": 196.05,
+      "operating_margin": 10.91,
+      "net_margin": 14.39
+    },
+    {
+      "year": 2022,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20220516001193",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220516001193",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220516001193"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220516001193"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20220516001193"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20220516001193"
+        }
+      },
+      "assets": 1292369653434,
+      "liabilities": 468018222025,
+      "equity": 824351431409,
+      "current_assets": 696458995604,
+      "current_liabilities": 345109395168,
+      "cash": 290059596408,
+      "revenue": 169441341971,
+      "operating_income": 19216042430,
+      "net_income": 25581178115,
+      "operating_cash_flow": 2311612546,
+      "debt_ratio": 56.77,
+      "equity_ratio": 63.79,
+      "current_ratio": 201.81,
+      "operating_margin": 11.34,
+      "net_margin": 15.1
+    },
+    {
+      "year": 2022,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20221114000507",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20221114000507",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20221114000507"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20221114000507"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20221114000507"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20221114000507"
+        }
+      },
+      "assets": 1387742332666,
+      "liabilities": 506042533392,
+      "equity": 881699799274,
+      "current_assets": 767307338939,
+      "current_liabilities": 391388070504,
+      "cash": 278851037186,
+      "revenue": 591991271281,
+      "operating_income": 68351619323,
+      "net_income": 80091913073,
+      "operating_cash_flow": 52409222346,
+      "debt_ratio": 57.39,
+      "equity_ratio": 63.53,
+      "current_ratio": 196.05,
+      "operating_margin": 11.55,
+      "net_margin": 13.53
+    },
+    {
+      "year": 2023,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20240322000886",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240322000886",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20240322000886"
+        }
+      },
+      "assets": 1540973937398,
+      "liabilities": 631575864424,
+      "equity": 909398072974,
+      "current_assets": 858315612315,
+      "current_liabilities": 519297109950,
+      "cash": 303139916931,
+      "revenue": 961069716545,
+      "operating_income": 113463014394,
+      "net_income": 82683480181,
+      "operating_cash_flow": 112995229635,
+      "debt_ratio": 69.45,
+      "equity_ratio": 59.01,
+      "current_ratio": 165.28,
+      "operating_margin": 11.81,
+      "net_margin": 8.6
+    },
+    {
+      "year": 2023,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20230811002201",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230811002201",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230811002201"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230811002201"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "반기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230811002201"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20230811002201"
+        }
+      },
+      "assets": 1461867507222,
+      "liabilities": 566360937658,
+      "equity": 895506569564,
+      "current_assets": 819984369025,
+      "current_liabilities": 451243523658,
+      "cash": 295494933289,
+      "revenue": 443697729282,
+      "operating_income": 53920555874,
+      "net_income": 51299935287,
+      "operating_cash_flow": 56882890473,
+      "debt_ratio": 63.24,
+      "equity_ratio": 61.26,
+      "current_ratio": 181.72,
+      "operating_margin": 12.15,
+      "net_margin": 11.56
+    },
+    {
+      "year": 2023,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20230515002902",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230515002902",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230515002902"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230515002902"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20230515002902"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20230515002902"
+        }
+      },
+      "assets": 1411912314535,
+      "liabilities": 542973532760,
+      "equity": 868938781775,
+      "current_assets": 779527127405,
+      "current_liabilities": 431315646400,
+      "cash": 298946366866,
+      "revenue": 203908649980,
+      "operating_income": 18261781441,
+      "net_income": 23012700795,
+      "operating_cash_flow": 28570576020,
+      "debt_ratio": 62.49,
+      "equity_ratio": 61.54,
+      "current_ratio": 180.73,
+      "operating_margin": 8.96,
+      "net_margin": 11.29
+    },
+    {
+      "year": 2023,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20231113000716",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20231113000716",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20231113000716"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20231113000716"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20231113000716"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20231113000716"
+        }
+      },
+      "assets": 1567323318993,
+      "liabilities": 599778546598,
+      "equity": 967544772395,
+      "current_assets": 811564759693,
+      "current_liabilities": 481791226492,
+      "cash": 298372586522,
+      "revenue": 710007274964,
+      "operating_income": 104435399263,
+      "net_income": 135499215751,
+      "operating_cash_flow": 87844452593,
+      "debt_ratio": 61.99,
+      "equity_ratio": 61.73,
+      "current_ratio": 168.45,
+      "operating_margin": 14.71,
+      "net_margin": 19.08
+    },
+    {
+      "year": 2024,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20250718000170",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250718000170",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20250718000170"
+        }
+      },
+      "assets": 1419108143782,
+      "liabilities": 590028281693,
+      "equity": 829079862089,
+      "current_assets": 814044282096,
+      "current_liabilities": 484572824709,
+      "cash": 358354939410,
+      "revenue": 989725343114,
+      "operating_income": 87296655446,
+      "net_income": 818849820,
+      "operating_cash_flow": 135676129235,
+      "debt_ratio": 71.17,
+      "equity_ratio": 58.42,
+      "current_ratio": 167.99,
+      "operating_margin": 8.82,
+      "net_margin": 0.08
+    },
+    {
+      "year": 2024,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20240814004419",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240814004419",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240814004419"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240814004419"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "반기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240814004419"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20240814004419"
+        }
+      },
+      "assets": 1486015746209,
+      "liabilities": 623757994556,
+      "equity": 862257751653,
+      "current_assets": 811552425389,
+      "current_liabilities": 505713437388,
+      "cash": 317934681394,
+      "revenue": 473943483374,
+      "operating_income": 40296304346,
+      "net_income": 20850092659,
+      "operating_cash_flow": 60074791662,
+      "debt_ratio": 72.34,
+      "equity_ratio": 58.02,
+      "current_ratio": 160.48,
+      "operating_margin": 8.5,
+      "net_margin": 4.4
+    },
+    {
+      "year": 2024,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20240516001271",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240516001271",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240516001271"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240516001271"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20240516001271"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20240516001271"
+        }
+      },
+      "assets": 1460777114002,
+      "liabilities": 581160559074,
+      "equity": 879616554928,
+      "current_assets": 792583269749,
+      "current_liabilities": 469558986645,
+      "cash": 289043886962,
+      "revenue": 220062503756,
+      "operating_income": 15546892895,
+      "net_income": 12441285273,
+      "operating_cash_flow": 4181991947,
+      "debt_ratio": 66.07,
+      "equity_ratio": 60.22,
+      "current_ratio": 168.79,
+      "operating_margin": 7.06,
+      "net_margin": 5.65
+    },
+    {
+      "year": 2024,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20241114002449",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241114002449",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20241114002449"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20241114002449"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "분기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20241114002449"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20241114002449"
+        }
+      },
+      "assets": 1421784143564,
+      "liabilities": 573520195646,
+      "equity": 848263947918,
+      "current_assets": 751130595670,
+      "current_liabilities": 457478015906,
+      "cash": 252639615214,
+      "revenue": 716167367902,
+      "operating_income": 53628833727,
+      "net_income": 24552208403,
+      "operating_cash_flow": 55092538712,
+      "debt_ratio": 67.61,
+      "equity_ratio": 59.66,
+      "current_ratio": 164.19,
+      "operating_margin": 7.49,
+      "net_margin": 3.43
+    },
+    {
+      "year": 2025,
+      "category": "annual",
+      "report_label": "Annual",
+      "fs_div": "CFS",
+      "rcept_no": "20260317000781",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000781",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20260317000781"
+        }
+      },
+      "assets": 2007711293863,
+      "liabilities": 648965438984,
+      "equity": 1358745854879,
+      "current_assets": 980488931078,
+      "current_liabilities": 497220002839,
+      "cash": 364611980599,
+      "revenue": 1174934814159,
+      "operating_income": 183033876467,
+      "net_income": 359364113602,
+      "operating_cash_flow": 194860708063,
+      "debt_ratio": 47.76,
+      "equity_ratio": 67.68,
+      "current_ratio": 197.19,
+      "operating_margin": 15.58,
+      "net_margin": 30.59
+    },
+    {
+      "year": 2025,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20250814002402",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250814002402",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250814002402"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250814002402"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250814002402"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20250814002402"
+        }
+      },
+      "assets": 1899141902573,
+      "liabilities": 652926641017,
+      "equity": 1246215261556,
+      "current_assets": 904032881212,
+      "current_liabilities": 521239111528,
+      "cash": 329463114350,
+      "revenue": 534341307919,
+      "operating_income": 80196238469,
+      "net_income": 283600957430,
+      "operating_cash_flow": 43080879083,
+      "debt_ratio": 52.39,
+      "equity_ratio": 65.62,
+      "current_ratio": 173.44,
+      "operating_margin": 15.01,
+      "net_margin": 53.07
+    },
+    {
+      "year": 2025,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20250515003047",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250515003047",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250515003047"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250515003047"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20250515003047"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20250515003047"
+        }
+      },
+      "assets": 1789076714694,
+      "liabilities": 607613816369,
+      "equity": 1181462898325,
+      "current_assets": 866345653078,
+      "current_liabilities": 499541912757,
+      "cash": 341728366085,
+      "revenue": 231426868159,
+      "operating_income": 32585652915,
+      "net_income": 252722772350,
+      "operating_cash_flow": 18544975694,
+      "debt_ratio": 51.43,
+      "equity_ratio": 66.04,
+      "current_ratio": 173.43,
+      "operating_margin": 14.08,
+      "net_margin": 109.2
+    },
+    {
+      "year": 2025,
+      "category": "quarterly_q3",
+      "report_label": "Quarterly Q3",
+      "fs_div": "CFS",
+      "rcept_no": "20251114002727",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251114002727",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20251114002727"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20251114002727"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20251114002727"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20251114002727"
+        }
+      },
+      "assets": 1959882232856,
+      "liabilities": 666051516058,
+      "equity": 1293830716798,
+      "current_assets": 971988729228,
+      "current_liabilities": 537136521581,
+      "cash": 360045558142,
+      "revenue": 855932917790,
+      "operating_income": 128409992620,
+      "net_income": 328286410064,
+      "operating_cash_flow": 133215936069,
+      "debt_ratio": 51.48,
+      "equity_ratio": 66.02,
+      "current_ratio": 180.96,
+      "operating_margin": 15.0,
+      "net_margin": 38.35
+    },
+    {
+      "year": 2026,
+      "category": "half_year",
+      "report_label": "Half-year",
+      "fs_div": "CFS",
+      "rcept_no": "20260814002930",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002930",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동 자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동 부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260814002930"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260814002930"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260814002930"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20260814002930"
+        }
+      },
+      "assets": 2009115785193,
+      "liabilities": 623385573401,
+      "equity": 1385730211792,
+      "current_assets": 992500229333,
+      "current_liabilities": 470835661209,
+      "cash": 371074732371,
+      "revenue": 628741431007,
+      "operating_income": 91455297850,
+      "net_income": 65871928668,
+      "operating_cash_flow": 43627971936,
+      "debt_ratio": 44.99,
+      "equity_ratio": 68.97,
+      "current_ratio": 210.8,
+      "operating_margin": 14.55,
+      "net_margin": 10.48
+    },
+    {
+      "year": 2026,
+      "category": "quarterly_q1",
+      "report_label": "Quarterly Q1",
+      "fs_div": "CFS",
+      "rcept_no": "20260515002991",
+      "source_url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002991",
+      "status": "OK",
+      "basis": "YTD; BS period-end",
+      "provenance": {
+        "assets": {
+          "account_id": "ifrs-full_Assets",
+          "account_nm": "자산총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "liabilities": {
+          "account_id": "ifrs-full_Liabilities",
+          "account_nm": "부채총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "equity": {
+          "account_id": "ifrs-full_Equity",
+          "account_nm": "자본총계",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "current_assets": {
+          "account_id": "ifrs-full_CurrentAssets",
+          "account_nm": "유동자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "current_liabilities": {
+          "account_id": "ifrs-full_CurrentLiabilities",
+          "account_nm": "유동부채",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "cash": {
+          "account_id": "ifrs-full_CashAndCashEquivalents",
+          "account_nm": "현금및현금성자산",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        },
+        "revenue": {
+          "account_id": "ifrs-full_Revenue",
+          "account_nm": "매출액",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260515002991"
+        },
+        "operating_income": {
+          "account_id": "dart_OperatingIncomeLoss",
+          "account_nm": "영업이익(손실)",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260515002991"
+        },
+        "net_income": {
+          "account_id": "ifrs-full_ProfitLoss",
+          "account_nm": "당기순이익",
+          "field": "thstrm_add_amount",
+          "rcept_no": "20260515002991"
+        },
+        "operating_cash_flow": {
+          "account_id": "ifrs-full_CashFlowsFromUsedInOperatingActivities",
+          "account_nm": "영업활동으로 인한 순현금흐름",
+          "field": "thstrm_amount",
+          "rcept_no": "20260515002991"
+        }
+      },
+      "assets": 2010003561055,
+      "liabilities": 656140490555,
+      "equity": 1353863070500,
+      "current_assets": 980171980085,
+      "current_liabilities": 510993386870,
+      "cash": 335376134124,
+      "revenue": 279100907391,
+      "operating_income": 38599082659,
+      "net_income": 36709153563,
+      "operating_cash_flow": 3539039470,
+      "debt_ratio": 48.46,
+      "equity_ratio": 67.36,
+      "current_ratio": 191.82,
+      "operating_margin": 13.83,
+      "net_margin": 13.15
+    }
+  ],
+  "reports": [
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2010.09)",
+      "rcept_no": "20101115000645",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20101115",
+      "rm": "",
+      "year": 2010,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20101115000645"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2010.06)",
+      "rcept_no": "20100816000118",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20100816",
+      "rm": "",
+      "year": 2010,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20100816000118"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2010.03)",
+      "rcept_no": "20100513000120",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20100513",
+      "rm": "",
+      "year": 2010,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20100513000120"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2011.09)",
+      "rcept_no": "20111111000158",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20111111",
+      "rm": "",
+      "year": 2011,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20111111000158"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2011.06)",
+      "rcept_no": "20110816000306",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20110816",
+      "rm": "",
+      "year": 2011,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110816000306"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2011.03)",
+      "rcept_no": "20110516000826",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20110516",
+      "rm": "",
+      "year": 2011,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110516000826"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2010.12)",
+      "rcept_no": "20110330000387",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20110330",
+      "rm": "",
+      "year": 2010,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20110330000387"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2012.09)",
+      "rcept_no": "20121114000586",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20121114",
+      "rm": "",
+      "year": 2012,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20121114000586"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2012.06)",
+      "rcept_no": "20120814000670",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20120814",
+      "rm": "",
+      "year": 2012,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20120814000670"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2012.03)",
+      "rcept_no": "20120515000269",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20120515",
+      "rm": "",
+      "year": 2012,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20120515000269"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2011.12)",
+      "rcept_no": "20120330000816",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20120330",
+      "rm": "정연",
+      "year": 2011,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20120330000816"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2013.09)",
+      "rcept_no": "20131129000244",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20131129",
+      "rm": "",
+      "year": 2013,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20131129000244"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2013.06)",
+      "rcept_no": "20130829001174",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20130829",
+      "rm": "",
+      "year": 2013,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130829001174"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2013.03)",
+      "rcept_no": "20130530000373",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20130530",
+      "rm": "",
+      "year": 2013,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130530000373"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2012.12)",
+      "rcept_no": "20130521000209",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20130521",
+      "rm": "정연",
+      "year": 2012,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130521000209"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2012.12)",
+      "rcept_no": "20130329002030",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20130329",
+      "rm": "정연",
+      "year": 2012,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20130329002030"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2014.09)",
+      "rcept_no": "20141121000030",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20141121",
+      "rm": "",
+      "year": 2014,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20141121000030"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2014.06)",
+      "rcept_no": "20140829000200",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20140829",
+      "rm": "",
+      "year": 2014,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140829000200"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2014.03)",
+      "rcept_no": "20140530001165",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20140530",
+      "rm": "",
+      "year": 2014,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140530001165"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2013.12)",
+      "rcept_no": "20140530001131",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20140530",
+      "rm": "정연",
+      "year": 2013,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140530001131"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2013.12)",
+      "rcept_no": "20140331001611",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20140331",
+      "rm": "정연",
+      "year": 2013,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20140331001611"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2015.09)",
+      "rcept_no": "20151116001109",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20151116",
+      "rm": "",
+      "year": 2015,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20151116001109"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2015.06)",
+      "rcept_no": "20150817001446",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20150817",
+      "rm": "",
+      "year": 2015,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150817001446"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2015.03)",
+      "rcept_no": "20150515001313",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20150515",
+      "rm": "",
+      "year": 2015,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150515001313"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2014.12)",
+      "rcept_no": "20150331004087",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20150331",
+      "rm": "연",
+      "year": 2014,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20150331004087"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2016.09)",
+      "rcept_no": "20161114002026",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20161114",
+      "rm": "",
+      "year": 2016,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20161114002026"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2016.06)",
+      "rcept_no": "20160812000781",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160812",
+      "rm": "",
+      "year": 2016,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160812000781"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2016.03)",
+      "rcept_no": "20160516002247",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160516",
+      "rm": "",
+      "year": 2016,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160516002247"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2013.12)",
+      "rcept_no": "20160422000669",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160422",
+      "rm": "연",
+      "year": 2013,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000669"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2012.12)",
+      "rcept_no": "20160422000651",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160422",
+      "rm": "연",
+      "year": 2012,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000651"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2011.12)",
+      "rcept_no": "20160422000639",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160422",
+      "rm": "연",
+      "year": 2011,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160422000639"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2013.12)",
+      "rcept_no": "20160408002497",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160408",
+      "rm": "정연",
+      "year": 2013,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160408002497"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2012.12)",
+      "rcept_no": "20160408002477",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160408",
+      "rm": "정연",
+      "year": 2012,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160408002477"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2011.12)",
+      "rcept_no": "20160408002452",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160408",
+      "rm": "정연",
+      "year": 2011,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160408002452"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2015.12)",
+      "rcept_no": "20160330003362",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20160330",
+      "rm": "연",
+      "year": 2015,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20160330003362"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2017.09)",
+      "rcept_no": "20171114001051",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20171114",
+      "rm": "",
+      "year": 2017,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20171114001051"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2017.06)",
+      "rcept_no": "20170814001030",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20170814",
+      "rm": "",
+      "year": 2017,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170814001030"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2017.03)",
+      "rcept_no": "20170515003095",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20170515",
+      "rm": "",
+      "year": 2017,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170515003095"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2016.12)",
+      "rcept_no": "20170331004676",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20170331",
+      "rm": "연",
+      "year": 2016,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20170331004676"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2018.09)",
+      "rcept_no": "20181114001206",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20181114",
+      "rm": "",
+      "year": 2018,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20181114001206"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2018.06)",
+      "rcept_no": "20180814001175",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20180814",
+      "rm": "",
+      "year": 2018,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180814001175"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2018.03)",
+      "rcept_no": "20180514004666",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20180514",
+      "rm": "",
+      "year": 2018,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180514004666"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2017.12)",
+      "rcept_no": "20180402002889",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20180402",
+      "rm": "연",
+      "year": 2017,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20180402002889"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2019.09)",
+      "rcept_no": "20191114001077",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20191114",
+      "rm": "",
+      "year": 2019,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20191114001077"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2019.06)",
+      "rcept_no": "20190814001215",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20190814",
+      "rm": "",
+      "year": 2019,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190814001215"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2019.03)",
+      "rcept_no": "20190515001063",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20190515",
+      "rm": "",
+      "year": 2019,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190515001063"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2018.12)",
+      "rcept_no": "20190329004163",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20190329",
+      "rm": "연",
+      "year": 2018,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20190329004163"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2020.09)",
+      "rcept_no": "20201116000981",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20201116",
+      "rm": "",
+      "year": 2020,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20201116000981"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2020.06)",
+      "rcept_no": "20200814001338",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20200814",
+      "rm": "",
+      "year": 2020,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200814001338"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2020.03)",
+      "rcept_no": "20200515001197",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20200515",
+      "rm": "",
+      "year": 2020,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200515001197"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2019.12)",
+      "rcept_no": "20200330004089",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20200330",
+      "rm": "연",
+      "year": 2019,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20200330004089"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2021.09)",
+      "rcept_no": "20211115001026",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20211115",
+      "rm": "",
+      "year": 2021,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20211115001026"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2021.06)",
+      "rcept_no": "20210817001014",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20210817",
+      "rm": "",
+      "year": 2021,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210817001014"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2021.03)",
+      "rcept_no": "20210517000837",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20210517",
+      "rm": "",
+      "year": 2021,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210517000837"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2020.12)",
+      "rcept_no": "20210322001115",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20210322",
+      "rm": "연",
+      "year": 2020,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20210322001115"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2022.09)",
+      "rcept_no": "20221114000507",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20221114",
+      "rm": "",
+      "year": 2022,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20221114000507"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2022.06)",
+      "rcept_no": "20220816001106",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20220816",
+      "rm": "",
+      "year": 2022,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220816001106"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2022.03)",
+      "rcept_no": "20220516001193",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20220516",
+      "rm": "",
+      "year": 2022,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220516001193"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2021.12)",
+      "rcept_no": "20220331003351",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20220331",
+      "rm": "연",
+      "year": 2021,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220331003351"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2021.12)",
+      "rcept_no": "20220323001290",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20220323",
+      "rm": "정연",
+      "year": 2021,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20220323001290"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2023.09)",
+      "rcept_no": "20231113000716",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20231113",
+      "rm": "",
+      "year": 2023,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20231113000716"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2023.06)",
+      "rcept_no": "20230811002201",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20230811",
+      "rm": "",
+      "year": 2023,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230811002201"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2023.03)",
+      "rcept_no": "20230515002902",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20230515",
+      "rm": "",
+      "year": 2023,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230515002902"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2022.12)",
+      "rcept_no": "20230331004445",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20230331",
+      "rm": "연",
+      "year": 2022,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230331004445"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2022.12)",
+      "rcept_no": "20230323001460",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20230323",
+      "rm": "정연",
+      "year": 2022,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20230323001460"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2024.09)",
+      "rcept_no": "20241114002449",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20241114",
+      "rm": "",
+      "year": 2024,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20241114002449"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2024.06)",
+      "rcept_no": "20240814004419",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20240814",
+      "rm": "",
+      "year": 2024,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240814004419"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2024.03)",
+      "rcept_no": "20240516001271",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20240516",
+      "rm": "",
+      "year": 2024,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240516001271"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2023.12)",
+      "rcept_no": "20240322000886",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20240322",
+      "rm": "연",
+      "year": 2023,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240322000886"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2023.12)",
+      "rcept_no": "20240319000808",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20240319",
+      "rm": "정연",
+      "year": 2023,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20240319000808"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2025.09)",
+      "rcept_no": "20251114002727",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20251114",
+      "rm": "",
+      "year": 2025,
+      "category": "quarterly_q3",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20251114002727"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2025.06)",
+      "rcept_no": "20250814002402",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20250814",
+      "rm": "",
+      "year": 2025,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250814002402"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]사업보고서 (2024.12)",
+      "rcept_no": "20250718000170",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20250718",
+      "rm": "연",
+      "year": 2024,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250718000170"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "[기재정정]분기보고서 (2025.03)",
+      "rcept_no": "20250515003047",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20250515",
+      "rm": "",
+      "year": 2025,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250515003047"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2025.03)",
+      "rcept_no": "20250515001874",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20250515",
+      "rm": "정",
+      "year": 2025,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250515001874"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2024.12)",
+      "rcept_no": "20250317000813",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20250317",
+      "rm": "정연",
+      "year": 2024,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20250317000813"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "반기보고서 (2026.06)",
+      "rcept_no": "20260814002930",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20260814",
+      "rm": "",
+      "year": 2026,
+      "category": "half_year",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002930"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "분기보고서 (2026.03)",
+      "rcept_no": "20260515002991",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20260515",
+      "rm": "",
+      "year": 2026,
+      "category": "quarterly_q1",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260515002991"
+    },
+    {
+      "corp_code": "00260930",
+      "corp_name": "에스엠",
+      "stock_code": "041510",
+      "corp_cls": "K",
+      "report_nm": "사업보고서 (2025.12)",
+      "rcept_no": "20260317000781",
+      "flr_nm": "에스엠",
+      "rcept_dt": "20260317",
+      "rm": "연",
+      "year": 2025,
+      "category": "annual",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260317000781"
+    }
+  ],
+  "peers": [
+    {
+      "name": "JYP Ent.",
+      "stock_code": "035900",
+      "reason": "아티스트 매니지먼트·음반·공연",
+      "caution": "아티스트 구성과 사업 포트폴리오 차이"
+    },
+    {
+      "name": "YG Entertainment",
+      "stock_code": "122870",
+      "reason": "아티스트 IP·음악·공연",
+      "caution": "활동 일정과 연결 종속기업 차이"
+    },
+    {
+      "name": "HYBE",
+      "stock_code": "352820",
+      "reason": "음악·멀티레이블·플랫폼",
+      "caution": "플랫폼·해외사업 비중 차이"
+    },
+    {
+      "name": "Cube Entertainment",
+      "stock_code": "182360",
+      "reason": "아티스트 매니지먼트·음반",
+      "caution": "규모와 비음악 사업 비중 차이"
+    }
+  ],
+  "notes": [
+    "2010–2014: 원문 ZIP 보관; 구조화 재무 API 미제공으로 수치는 미추출.",
+    "손익·현금흐름은 누적(YTD), 재무상태표는 기말. 연결 우선·미제공 시 별도.",
+    "분모가 0 이하인 비율 및 계정이 모호한 수치는 표시하지 않음."
+  ]
+}
