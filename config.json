@@ -1,0 +1,31 @@
+{
+  "company_name": "SM Entertainment",
+  "stock_code": "041510",
+  "start_year": 2010,
+  "peer_firms": [
+    {
+      "name": "JYP Ent.",
+      "stock_code": "035900",
+      "reason": "아티스트 매니지먼트·음반·공연",
+      "caution": "아티스트 구성과 사업 포트폴리오 차이"
+    },
+    {
+      "name": "YG Entertainment",
+      "stock_code": "122870",
+      "reason": "아티스트 IP·음악·공연",
+      "caution": "활동 일정과 연결 종속기업 차이"
+    },
+    {
+      "name": "HYBE",
+      "stock_code": "352820",
+      "reason": "음악·멀티레이블·플랫폼",
+      "caution": "플랫폼·해외사업 비중 차이"
+    },
+    {
+      "name": "Cube Entertainment",
+      "stock_code": "182360",
+      "reason": "아티스트 매니지먼트·음반",
+      "caution": "규모와 비음악 사업 비중 차이"
+    }
+  ]
+}
