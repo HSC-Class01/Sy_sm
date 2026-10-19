@@ -17,7 +17,7 @@ permissions:
   pages: write
   id-token: write
 concurrency:
-  group: sm-dart-pages
+  group: sm-dart-pages-v2
   cancel-in-progress: true
 jobs:
   collect-and-deploy:
