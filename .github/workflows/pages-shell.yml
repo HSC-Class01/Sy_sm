@@ -1,0 +1,58 @@
+name: Publish SM dashboard shell
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'index.html'
+      - '.github/workflows/pages-shell.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: sm-dashboard-shell-pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Prepare dashboard even before DART collection finishes
+        run: |
+          mkdir -p site/data
+          cp index.html site/index.html
+          if [ -f data/dashboard_data.json ]; then
+            cp data/dashboard_data.json site/data/dashboard_data.json
+          else
+            cat > site/data/dashboard_data.json <<'JSON'
+          {
+            "company": {"corp_name": "SM Entertainment", "stock_code": "041510"},
+            "updated_at_utc": null,
+            "records": [],
+            "reports": [],
+            "peers": [
+              {"name":"JYP Ent.","stock_code":"035900","reason":"아티스트 매니지먼트·음반·공연","caution":"아티스트 구성과 사업 포트폴리오 차이"},
+              {"name":"YG Entertainment","stock_code":"122870","reason":"아티스트 IP·음악·공연","caution":"활동 일정과 연결 종속기업 차이"},
+              {"name":"HYBE","stock_code":"352820","reason":"음악·멀티레이블·플랫폼","caution":"플랫폼·해외사업 비중 차이"},
+              {"name":"Cube Entertainment","stock_code":"182360","reason":"아티스트 매니지먼트·음반","caution":"규모와 비음악 사업 비중 차이"}
+            ],
+            "notes": ["대시보드 페이지는 활성화되었으며, 실제 재무 데이터 수집 작업이 완료되면 수치가 표시됩니다.", "손익·현금흐름은 해당 연도 누적(YTD), 재무상태표는 기말 기준입니다."]
+          }
+          JSON
+          fi
+          if [ -f data/financials.csv ]; then cp data/financials.csv site/data/financials.csv; else printf 'year,category,fs_div,status\n' > site/data/financials.csv; fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: site
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
